@@ -28,11 +28,14 @@ module.exports = {
     'react-native',
   ],
   rules: {
+    'no-plusplus': 'off',
+    'react-native/no-inline-styles': 'off',
+    'import/no-extraneous-dependencies': 'off',
+    'no-use-before-define': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
     'react/style-prop-object': 'off',
     'react/require-default-props': 'off',
     'react/jsx-props-no-spreading': 'off',
-    'react-native/no-inline-styles': 'warn',
     'react/jsx-filename-extension': ['error', { extensions: ['.jsx', '.tsx'] }],
     'import/extensions': [
       'error',

@@ -1,10 +1,5 @@
-import { Screen } from 'react-native-screens';
-import ThemedText from '@components/common/ThemedText';
+import CreateChallengeNavigator from '@navigation/CreateChallengeNavigator';
 
 export default function CreateChallengeScreen() {
-  return (
-    <Screen>
-      <ThemedText>Create challenge</ThemedText>
-    </Screen>
-  );
+  return <CreateChallengeNavigator />;
 }
