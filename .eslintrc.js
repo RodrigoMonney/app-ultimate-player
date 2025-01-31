@@ -28,6 +28,7 @@ module.exports = {
     'react-native',
   ],
   rules: {
+    'react/jsx-boolean-value': 'off',
     'no-plusplus': 'off',
     'react-native/no-inline-styles': 'off',
     'import/no-extraneous-dependencies': 'off',
