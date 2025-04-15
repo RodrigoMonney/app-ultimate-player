@@ -1,0 +1,3 @@
+Ultimate Player is a gamified personal development app that turns habits and goals into social, trackable challenges. Users can join or create challenges—whether time-based or ongoing—and complete daily tasks like workouts, reading, meditation, or other personal goals. Each task can involve check-ins, progress metrics, and media uploads for accountability.
+
+Inspired by social apps and gaming platforms, Ultimate Player includes real-time feeds, rankings, and badges to keep users motivated and engaged. It's not just about tracking progress—it's about becoming the best version of yourself through consistency, discipline, and friendly competition. In this game, the ultimate player is the one who beats yesterday’s version of themselves.
